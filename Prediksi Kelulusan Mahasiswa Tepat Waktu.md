@@ -1,4 +1,4 @@
-# Laporan Proyek Machine Learning: Prediksi Kelulusan Mahasiswa Tepat Waktu - Siti Yuniasih
+# Laporan Proyek Machine Learning: Prediksi Kelulusan Mahasiswa Tepat Waktu
 
 
 ## 1. Domain Proyek
